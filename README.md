@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Enhjin 👋
 
-<!--
-**enkhjee/enkhjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the National University of Mongolia (МУИС).
+I build full-stack web apps and take them all the way to production.
 
-Here are some ideas to get you started:
+## 🚀 Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Mongolian Performance Calligraphy Association](https://github.com/enkhjee/mpca-site) — [mongoliancalligraphy.org](https://mongoliancalligraphy.org)
+Bilingual (MN/EN) website with an admin CMS, built for a real client.
+Node.js · Express · SQLite · deployed on AWS EC2 behind Caddy and Cloudflare.
+Built with AI-assisted development.
+
+## 🛠 Tech I use
+
+- Web: JavaScript, Node.js, Express, EJS, HTML/CSS, Tailwind
+- Databases: SQLite, SQL
+- Languages: C++, Java, Python
+- Learning now: Spring Boot, Godot (game development)
+- Tools: Git, Linux, AWS EC2, Cloudflare
+
+## 📫 Contact
+
+- Email: enhjind577@gmail.com
